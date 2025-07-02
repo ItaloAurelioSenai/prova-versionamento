@@ -4,3 +4,5 @@
 
 ### Dados do aluno
 
+- **Nome:** Ítalo Aurélio de Paula Vieira
+- **Data:** 02/07/2025
